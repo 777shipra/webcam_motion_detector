@@ -27,3 +27,5 @@ APPLICATION IS MADE FROM SCRATCH WITH PYTHON USING ATOM
  
  then we will make a rectangle around the biggest contour / moving object . 
  
+ GO TO MOTION_DETECTOR.PY FILE AND THEN PLOTIING.PY FILE
+ 
